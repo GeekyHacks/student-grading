@@ -19,3 +19,7 @@ function gradingStudents(grades) {
 
 let result = gradingStudents([4, 73, 67, 38, 33]);
 console.log(result);
+
+
+/*we need an output array to push the right grades that meets the right conditions
+and we chose 37 instead 38 because 38 is included in the inquired conditions for grading*/ 
